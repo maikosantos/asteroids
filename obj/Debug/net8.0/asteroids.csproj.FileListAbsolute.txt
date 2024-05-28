@@ -1,0 +1,14 @@
+C:\www\upstart13\asteroids\bin\Debug\net8.0\asteroids.exe
+C:\www\upstart13\asteroids\bin\Debug\net8.0\asteroids.deps.json
+C:\www\upstart13\asteroids\bin\Debug\net8.0\asteroids.runtimeconfig.json
+C:\www\upstart13\asteroids\bin\Debug\net8.0\asteroids.dll
+C:\www\upstart13\asteroids\bin\Debug\net8.0\asteroids.pdb
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.AssemblyInfoInputs.cache
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.AssemblyInfo.cs
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.csproj.CoreCompileInputs.cache
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.dll
+C:\www\upstart13\asteroids\obj\Debug\net8.0\refint\asteroids.dll
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.pdb
+C:\www\upstart13\asteroids\obj\Debug\net8.0\asteroids.genruntimeconfig.cache
+C:\www\upstart13\asteroids\obj\Debug\net8.0\ref\asteroids.dll
